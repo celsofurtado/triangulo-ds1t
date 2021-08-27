@@ -36,6 +36,8 @@ public class Triangulo {
 		} else {
 			System.out.println("Sinto muito, não é um triângulo!");
 		}
+		
+		System.out.println("fim");
 
 	}
 
